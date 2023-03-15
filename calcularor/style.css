@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+.screen{
+    width: 106%;
+    height: 15vh;
+    margin-left: -13px;
+    background-color: black;
+    border-bottom: 2px solid grey;
+    color: white;
+    text-align: right;
+    pointer-events: none;
+}
+.buttons{
+    height: 100%;
+    background-color: black;
+    border-radius: 10px;
+    width: 474px;
+    margin-left: 15px;
+}
+.btn-all{
+    margin: 12px;
+    width: 60px;
+    height: 35px;
+}
+.calculator{
+    margin-top: 89px;
+}
